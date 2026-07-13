@@ -1,7 +1,7 @@
 # Cyber-Security-Journey
 ## IT Fundamentals
 - Computer Hardware
-- Operating System
+- Operating Systems
 - Networking Basics
 - IP Addressing
 - DNS
